@@ -4,3 +4,6 @@ In this project, we aim to predict the NBA championship winner using various sta
 
 Loading the Dataset, Model fitting, evaluating the model, and deploying the model are the basic steps of predictive modelling that are being used on a dataset that contains various attributes of NBA stats. This predictive model uses ridge regression to determine which NBA team has a better chance to win the playoffs. This model gives us a predicted winning percentage of a team for every season from the year 2003.
 
+predict.csv is taken from http://basketball-reference.com/ which is web scrapped by me. This dataset gives us stats from the knockout stages where teams compete to win the championship.
+
+This project is inspired from VikParuchuri MVP project https://github.com/dataquestio/project-walkthroughs/blob/master/mvp and Jhonathan Lee https://github.com/dataquestio/project-walkthroughs/blob/master/mvp/machine_learning.ipynb.
